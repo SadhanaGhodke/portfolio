@@ -35,11 +35,7 @@ body {
         font-optical-sizing: auto;
         font-weight: 300;
         font-style: normal;
-        font-size:25px;
-        /* display : flex;
-          margin-left: 0px;
-        margin-bottom: 0px; padding : 2em;*/       
-       
+        font-size:25px;          
   }
 
   .top-container > div  img{
@@ -188,7 +184,7 @@ body {
     .top-container{
       display: flex;
       justify-content: center;
-      margin-bottom: 170px;
+      margin-bottom: 0px;
     }
 
     .card {
